@@ -1,0 +1,4 @@
+SELECT income, COUNT(*) AS income_count
+FROM  Time_Spent_By_A User_On_SocialMedia
+GROUP BY income
+ORDER BY income_count DESC;

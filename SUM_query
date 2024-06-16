@@ -1,0 +1,2 @@
+SELECT SUM(time_spent) AS total_time_spent
+FROM Time_Spent_By_A_User_On_SocialMedia;

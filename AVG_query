@@ -1,0 +1,2 @@
+SELECT AVG(income) AS average_income
+FROM Time_Spent_By_A_User_On_SocialMedia;
