@@ -8,3 +8,7 @@ What i found interesting  was analysing data to get insights in seconds.
 <img width="418" alt="analysis01" src="https://github.com/GloriaChebe/databaseAss/assets/145842832/8ff234e9-60b5-435d-a3c2-f67375c528a8">
 
 From the above analysis, i can tell non-binary in Australia earns more income compared to non binary in United Kingdom who earns the least. 
+
+<img width="382" alt="Capture" src="https://github.com/GloriaChebe/databaseAss/assets/145842832/9bbcc3b8-7865-41d9-b2b6-10c305319cc7">
+
+The average age for lifestyle is 41.38, for sports is 40.62 and for travel is 40.94
